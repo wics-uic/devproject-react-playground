@@ -4,5 +4,6 @@ html,body {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.87);
   background-color: #ffffff;
+  min-height: 100vh;
 }
 

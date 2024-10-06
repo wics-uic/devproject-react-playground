@@ -1,0 +1,18 @@
+[{
+    "id" : 1,
+    "heading" : "ask questions",
+    "text" : "no one learnt anything by sitting quietly so don't be worried in asking for help when you need it :). We're all here to learn so no bad questions here.",
+    "image": "./cat.png"
+},
+{
+    "id" : 2,
+    "heading" : "play around a bit",
+    "text" : "when you first start, it might feel confusing because there's so many files involved. just play around w it and see what makes sense and what doesn't!",
+    "image": "./cat2-Photoroom.png"
+},
+{
+    "id" : 3,
+    "heading" : "use AI to help you",
+    "text" : "instead of getting ChatGPT to spit out code for you, try to instead ask it questions to explain things if you are confused. It's really helpful with coding but don't just copy paste the code it gives you.",
+    "image": "./cutiecat.png"
+}]

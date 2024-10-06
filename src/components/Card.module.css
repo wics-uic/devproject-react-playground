@@ -1,0 +1,25 @@
+.layout {
+    background-color: #416165;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    flex: 1;
+    align-items: center; 
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 1.6rem;
+}
+
+h4 {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+img {
+    width: 12rem;  
+    height: auto;  /* Maintain aspect ratio */
+}
