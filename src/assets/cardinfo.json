@@ -1,6 +1,6 @@
 [{
     "id" : 1,
-    "heading" : "ask questions",
+    "heading" : "ask questions politely",
     "text" : "no one learnt anything by sitting quietly so don't be worried in asking for help when you need it :). We're all here to learn so no bad questions here.",
     "image": "./cat.png"
 },
@@ -14,5 +14,11 @@
     "id" : 3,
     "heading" : "use AI to help you",
     "text" : "instead of getting ChatGPT to spit out code for you, try to instead ask it questions to explain things if you are confused. It's really helpful with coding but don't just copy paste the code it gives you.",
+    "image": "./cutiecat.png"
+},
+{
+    "id" : 4,
+    "heading" : "hi there",
+    "text" : "bye bye",
     "image": "./cutiecat.png"
 }]

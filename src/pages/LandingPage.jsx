@@ -13,8 +13,8 @@ export default function LandingPage() {
         <div className={styles.layout}>
             <h1>welcome to wics dev project !</h1>
             <div className={styles.cardContainer}>
-                {cardinfo.map (item => (
-                    <Card card={item}></Card>
+                {cardinfo.map (element => (
+                    <Card card={element}></Card>
                 ))}
             </div>
             <h3> 
